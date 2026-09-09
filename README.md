@@ -5,13 +5,6 @@
 
   <br/><br/>
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8AADF4&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%3E_Initializing+neural+network...;%3E_Building+next-gen+web+applications...;%3E_Automating+the+future+with+AI...;%3E_Cyberpunk+mode%3A+ACTIVE." alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
   <!-- REDES SOCIAIS -->
   <a href="https://linkedin.com/in/Bios1480">
     <img src="https://img.shields.io/badge/LinkedIn-8AADF4?style=for-the-badge&logo=linkedin&logoColor=24273A" alt="LinkedIn"/>
@@ -34,15 +27,21 @@
 
 ### **SYSTEM STATUS: ABOUT ME**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Português 🇧🇷**
+
 ```javascript
 const developer = {
-    name: "Bios1480",
-    role: "Full Stack Developer",
-    location: "Brasil",
-    coreDirectives: [
+    nome: "Bios1480",
+    funcao: "Desenvolvedor Full Stack",
+    localizacao: "Brasil",
+    diretrizes: [
         "Transformar café em código otimizado",
         "Construir arquiteturas escaláveis",
         "Explorar IA, Web3 e Cyber-Security"
     ],
-    status: "Disponível para novos projetos e conexões"
+    status: "Disponível para novos projetos"
 };
