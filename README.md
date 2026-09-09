@@ -45,3 +45,15 @@ const developer = {
     ],
     status: "Disponível para novos projetos"
 };
+
+const developer = {
+    name: "Bios1480",
+    role: "Full Stack Developer",
+    location: "Brazil",
+    directives: [
+        "Turn coffee into optimized code",
+        "Build scalable architectures",
+        "Explore AI, Web3 & Cyber-Security"
+    ],
+    status: "Available for new projects"
+};
