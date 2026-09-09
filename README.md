@@ -22,16 +22,15 @@
 
 ---
 
+---
+
 ### **SYSTEM STATUS: ABOUT ME**
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**Português 🇧🇷**
-
-```javascript
-const developer = {
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Português 🇧🇷</h4>
+      <pre><code>const developer = {
     nome: "Bios1480",
     funcao: "Desenvolvedor Full Stack",
     localizacao: "Brasil",
@@ -41,9 +40,11 @@ const developer = {
         "Explorar IA, Web3 e Cyber-Security"
     ],
     status: "Disponível para novos projetos"
-};
-
-const developer = {
+};</code></pre>
+    </td>
+    <td width="50%" valign="top">
+      <h4>English 🇺🇸</h4>
+      <pre><code>const developer = {
     name: "Bios1480",
     role: "Full Stack Developer",
     location: "Brazil",
@@ -53,4 +54,9 @@ const developer = {
         "Explore AI, Web3 & Cyber-Security"
     ],
     status: "Available for new projects"
-};
+};</code></pre>
+    </td>
+  </tr>
+</table>
+
+---
