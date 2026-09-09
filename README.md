@@ -6,17 +6,14 @@
   <br/><br/>
 
   <!-- REDES SOCIAIS -->
-  <a href="https://linkedin.com/in/Bios1480">
+  <a href="https://linkedin.com/in/manuelalejandrosanguino">
     <img src="https://img.shields.io/badge/LinkedIn-8AADF4?style=for-the-badge&logo=linkedin&logoColor=24273A" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:manuelsanguino09@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-ED87A0?style=for-the-badge&logo=gmail&logoColor=24273A" alt="Gmail"/>
   </a>
-  <a href="https://instagram.com/Bios1480">
+  <a href="https://instagram.com/manu_san14">
     <img src="https://img.shields.io/badge/Instagram-F5BDE6?style=for-the-badge&logo=instagram&logoColor=24273A" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/users/SEU_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-B7BDF8?style=for-the-badge&logo=discord&logoColor=24273A" alt="Discord"/>
   </a>
 
 </div>
