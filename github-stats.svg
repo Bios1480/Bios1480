@@ -1,0 +1,347 @@
+
+<svg
+  width="760"
+  height="185"
+  viewBox="0 0 760 185"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <style>
+      .bg {
+        fill: #2E3440;
+      }
+
+      .panel {
+        fill: #2E3440;
+        stroke: #4C566A;
+        stroke-width: 1.5;
+      }
+
+      .title {
+        fill: #88C0D0;
+        font-family: monospace;
+        font-size: 13px;
+        font-weight: bold;
+      }
+
+      .label {
+        fill: #D8DEE9;
+        font-family: monospace;
+        font-size: 10px;
+      }
+
+      .value {
+        fill: #88C0D0;
+        font-family: monospace;
+        font-size: 10px;
+        font-weight: bold;
+      }
+
+      .small {
+        fill: #81A1C1;
+        font-family: monospace;
+        font-size: 8px;
+      }
+
+      .bar-bg {
+        fill: #434C5E;
+      }
+
+      .html {
+        fill: #EBCB8B;
+      }
+
+      .css {
+        fill: #81A1C1;
+      }
+
+      .js {
+        fill: #A3BE8C;
+      }
+
+      .sql {
+        fill: #88C0D0;
+      }
+
+      .circle-bg {
+        fill: none;
+        stroke: #434C5E;
+        stroke-width: 5;
+      }
+
+      .circle {
+        fill: none;
+        stroke: #81A1C1;
+        stroke-width: 5;
+        stroke-linecap: round;
+        transform: rotate(-90deg);
+        transform-origin: center;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    width="760"
+    height="185"
+    rx="10"
+    class="bg"
+  />
+
+  <!-- ========================== -->
+  <!-- CARD 1 : GITHUB STATISTICS -->
+  <!-- ========================== -->
+
+  <rect
+    x="10"
+    y="10"
+    width="365"
+    height="165"
+    rx="6"
+    class="panel"
+  />
+
+  <text
+    x="25"
+    y="31"
+    class="title"
+  >
+    Estatísticas do GitHub
+  </text>
+
+  <!-- Stars -->
+  <text x="28" y="55" class="small">✦</text>
+  <text x="42" y="55" class="label">
+    Total de estrelas:
+  </text>
+
+  <text x="240" y="55" class="value">
+    58
+  </text>
+
+  <!-- Commits -->
+  <text x="28" y="76" class="small">◈</text>
+  <text x="42" y="76" class="label">
+    Total de commits:
+  </text>
+
+  <text x="240" y="76" class="value">
+    76
+  </text>
+
+  <!-- PR -->
+  <text x="28" y="97" class="small">◉</text>
+  <text x="42" y="97" class="label">
+    Total de PR:
+  </text>
+
+  <text x="240" y="97" class="value">
+    0
+  </text>
+
+  <!-- Issues -->
+  <text x="28" y="118" class="small">◎</text>
+  <text x="42" y="118" class="label">
+    Total de issues:
+  </text>
+
+  <text x="240" y="118" class="value">
+    0
+  </text>
+
+  <!-- Contributions -->
+  <text x="28" y="139" class="small">◌</text>
+  <text x="42" y="139" class="label">
+    Contribuições:
+  </text>
+
+  <text x="240" y="139" class="value">
+    0
+  </text>
+
+  <!-- Rank -->
+  <text x="28" y="160" class="small">◇</text>
+  <text x="42" y="160" class="label">
+    Classificação:
+  </text>
+
+  <text x="240" y="160" class="value">
+    B
+  </text>
+
+  <!-- Circular ranking -->
+  <circle
+    cx="325"
+    cy="94"
+    r="29"
+    class="circle-bg"
+  />
+
+  <circle
+    cx="325"
+    cy="94"
+    r="29"
+    class="circle"
+    stroke-dasharray="145 182"
+  />
+
+  <text
+    x="325"
+    y="99"
+    text-anchor="middle"
+    class="title"
+    font-size="20"
+  >
+    B
+  </text>
+
+  <!-- ======================== -->
+  <!-- CARD 2 : TECHNOLOGIES -->
+  <!-- ======================== -->
+
+  <rect
+    x="385"
+    y="10"
+    width="365"
+    height="165"
+    rx="6"
+    class="panel"
+  />
+
+  <text
+    x="400"
+    y="31"
+    class="title"
+  >
+    Tecnologias
+  </text>
+
+  <!-- HTML -->
+
+  <text x="402" y="57" class="small">◆</text>
+  <text x="415" y="57" class="label">HTML</text>
+
+  <text
+    x="725"
+    y="57"
+    text-anchor="end"
+    class="value"
+  >
+    25.2%
+  </text>
+
+  <rect
+    x="402"
+    y="64"
+    width="323"
+    height="5"
+    rx="3"
+    class="bar-bg"
+  />
+
+  <rect
+    x="402"
+    y="64"
+    width="81"
+    height="5"
+    rx="3"
+    class="html"
+  />
+
+  <!-- CSS -->
+
+  <text x="402" y="87" class="small">◆</text>
+  <text x="415" y="87" class="label">CSS</text>
+
+  <text
+    x="725"
+    y="87"
+    text-anchor="end"
+    class="value"
+  >
+    25.0%
+  </text>
+
+  <rect
+    x="402"
+    y="94"
+    width="323"
+    height="5"
+    rx="3"
+    class="bar-bg"
+  />
+
+  <rect
+    x="402"
+    y="94"
+    width="80"
+    height="5"
+    rx="3"
+    class="css"
+  />
+
+  <!-- JavaScript -->
+
+  <text x="402" y="117" class="small">◆</text>
+  <text x="415" y="117" class="label">JavaScript</text>
+
+  <text
+    x="725"
+    y="117"
+    text-anchor="end"
+    class="value"
+  >
+    37.5%
+  </text>
+
+  <rect
+    x="402"
+    y="124"
+    width="323"
+    height="5"
+    rx="3"
+    class="bar-bg"
+  />
+
+  <rect
+    x="402"
+    y="124"
+    width="121"
+    height="5"
+    rx="3"
+    class="js"
+  />
+
+  <!-- SQL -->
+
+  <text x="402" y="147" class="small">◆</text>
+  <text x="415" y="147" class="label">SQL</text>
+
+  <text
+    x="725"
+    y="147"
+    text-anchor="end"
+    class="value"
+  >
+    12.3%
+  </text>
+
+  <rect
+    x="402"
+    y="154"
+    width="323"
+    height="5"
+    rx="3"
+    class="bar-bg"
+  />
+
+  <rect
+    x="402"
+    y="154"
+    width="40"
+    height="5"
+    rx="3"
+    class="sql"
+  />
+
+</svg>
