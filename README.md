@@ -21,7 +21,13 @@
 <br/>
 
 ---
-
+<p align="center">
+  <img
+    src="./github-stats.svg"
+    alt="GitHub Statistics"
+    width="760"
+  />
+</p>
 ---
 
 ### **SYSTEM STATUS: ABOUT ME**
