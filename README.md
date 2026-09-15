@@ -12,7 +12,7 @@
   <a href="mailto:manuelsanguino09@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-ED87A0?style=for-the-badge&logo=gmail&logoColor=24273A" alt="Gmail"/>
   </a>
-  <a href="https://instagram.com/manu_san14">
+  <a href="https://instagram.com/manuel_san14">
     <img src="https://img.shields.io/badge/Instagram-F5BDE6?style=for-the-badge&logo=instagram&logoColor=24273A" alt="Instagram"/>
   </a>
 
