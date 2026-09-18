@@ -8,17 +8,17 @@
   <defs>
     <style>
       .bg {
-        fill: #2E3440;
+        fill: #06162B;
       }
 
       .panel {
-        fill: #2E3440;
+        fill: #0A1A2F;
         stroke: #4C566A;
         stroke-width: 1.5;
       }
 
       .title {
-        fill: #88C0D0;
+        fill: #E6EAEE;
         font-family: monospace;
         font-size: 13px;
         font-weight: bold;
@@ -31,7 +31,7 @@
       }
 
       .value {
-        fill: #88C0D0;
+        fill: #E6EAEE;
         font-family: monospace;
         font-size: 10px;
         font-weight: bold;
@@ -192,7 +192,7 @@
     class="title"
     font-size="20"
   >
-    B
+    C
   </text>
 
   <!-- ======================== -->
