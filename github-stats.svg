@@ -65,7 +65,7 @@
 
       .circle-bg {
         fill: none;
-        stroke: #434C5E;
+        stroke: #24273a;
         stroke-width: 5;
       }
 
