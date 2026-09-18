@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- BANNER / IMAGEM ESPECÍFICA -->
-  <img src="f<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/755b90bc-1bbd-4d82-8424-41cdaa587c65" />
-" width="100%" alt="Banner do Perfil" />
+  <img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/755b90bc-1bbd-4d82-8424-41cdaa587c65">
 
   <br/><br/>
 
