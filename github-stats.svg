@@ -116,7 +116,7 @@
   </text>
 
   <text x="240" y="55" class="value">
-    58
+    1
   </text>
 
   <!-- Commits -->
@@ -166,7 +166,7 @@
   </text>
 
   <text x="240" y="160" class="value">
-    B
+    C
   </text>
 
   <!-- Circular ranking -->
@@ -227,7 +227,7 @@
     text-anchor="end"
     class="value"
   >
-    25.2%
+    75%
   </text>
 
   <rect
@@ -259,7 +259,7 @@
     text-anchor="end"
     class="value"
   >
-    25.0%
+    80%
   </text>
 
   <rect
